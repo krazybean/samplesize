@@ -1,5 +1,8 @@
 package main
 
+// Using the modified Simple Size calculation based on:
+// http://fluidsurveys.com/university/calculating-right-survey-sample-size/
+
 import (
 	"fmt"
 	"github.com/krazybean/samplesize/samplesize_golang"
